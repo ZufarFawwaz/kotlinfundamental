@@ -1,0 +1,25 @@
+fun main() {
+    var vocal = 'Z'
+
+    println("Vocal " + vocal-- )
+    println("Vocal " + vocal-- )
+    println("Vocal " + vocal-- )
+    ("vocal " + vocal-- )
+    ("vocal " + vocal-- )
+    ("vocal " + vocal-- )
+    ("Vocal " + vocal-- )
+    println("Vocal " + vocal++ )
+    ("Vocal " + vocal-- )
+    ("vocal " + vocal--)
+    println("vocal " + vocal-- )
+    ("vocal " + vocal++ )
+    ("vocal " + vocal++ )
+    println("vocal " + vocal++ )
+    ("vocal " + vocal++ )
+    ("vocal " + vocal++ )
+    ("vocal " + vocal++ )
+    ("vocal " + vocal++ )
+    println("vocal " + vocal++ )
+    println("vocal " + vocal++ )
+    println("vocal " + vocal++ )
+}
